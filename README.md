@@ -1,2 +1,2 @@
 # hello-world
-test repo
+Hi there, trying to explore github github ecosystem. 
